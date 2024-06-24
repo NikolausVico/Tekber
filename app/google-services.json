@@ -7,9 +7,28 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:558759780406:android:41ef4cd5d4a5f7365e7897",
+        "android_client_info": {
+          "package_name": "com.example.RingCheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNlWceZlRtcphImOdq8voD24-ztCshPGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:558759780406:android:ef488530781c5cde5e7897",
         "android_client_info": {
-          "package_name": "com.example.crudkotpractice"
+          "package_name": "com.example.RingCheck"
         }
       },
       "oauth_client": [],

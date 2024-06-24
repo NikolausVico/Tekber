@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.crudkotpractice"
+    namespace = "com.example.RingCheck"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.crudkotpractice"
+        applicationId = "com.example.RingCheck"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CRUD Kot Practice"
+rootProject.name = "RingCheck"
 include(":app")
-include(":crudadminkot")
+include(":RingCheck")
